@@ -1,5 +1,5 @@
 ## Hangman Game
-![Screenshot (13)](https://github.com/kgaurav55/Hangman_55/assets/132058010/81d52927-dd18-45ab-b893-cb2fd9f8ead1)
+![Screenshot (8)](https://github.com/kgaurav55/Hangman_55/assets/132058010/6b66576d-a75f-4ae2-84e8-217611eea7b7)
 ![Screenshot (9)](https://github.com/kgaurav55/Hangman_55/assets/132058010/ca9cfbbe-6eb0-4078-8674-f9d61fffdc02)
 ![Screenshot (10)](https://github.com/kgaurav55/Hangman_55/assets/132058010/074ee0e2-a0de-40f6-9981-136e0117c390)
 ![Screenshot (13)](https://github.com/kgaurav55/Hangman_55/assets/132058010/b96c5e63-b29a-4b9b-ab7e-218ec7f6b4b1)
