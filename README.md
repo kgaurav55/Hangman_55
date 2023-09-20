@@ -1,11 +1,45 @@
-# Getting Started with Create React App
+## Project File Description 
+public/
+This directory contains public assets that are accessible directly from the browser. It typically includes your index.html file, which is the entry point for your React application.
+.src/
+This is the main source code directory for your React application.
+  .game/
+     This directory contain the game-related components and logic for Hangman game. Inside, it has several JavaScript files that are components or modules used 
+     in the game.
+     
+  Menu.js:
+   This component serves as the main menu of your Hangman game.
+   It presents various themes or categories to the user, allowing them to choose a theme for the game.
+  Once a theme is selected, it likely navigates the user to the Play.js component to start playing the game with the chosen theme.
+  
+Play.js:
+  This component is responsible for initiating gameplay.
+  It appears to be a starting point where users can click to begin the game.
+  After clicking, it redirects the user to the Menu.js component to select a theme before actual gameplay starts.
+  
+letters.js:
+ This component seems to handle the display of letters that can be guessed by the player.
+ It presents all 26 characters (A-Z), with letters played (guessed) shown in gray color.
+ Unplayed letters are displayed in blue color.
+ It likely handles the logic for selecting and guessing letters, updating the display accordingly.
+ 
+lives.js:
+  This component calculates and displays the remaining lives or guesses the player has.
+  It calculates lives left based on the actual word to be guessed and the wrong letters played.
+  This component may also provide visual feedback to the player about their remaining lives.
+  
+word.js:
+This component is responsible for displaying the word that the player is trying to guess.
+It shows the word with placeholders for unguessed letters, updating them as the player makes correct guesses.
+It provides a visual representation of the player's progress in guessing the word.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+index.js:
+As the entry point of the game, this component manages the overall game state.
+It likely maintains state variables such as the played letters, the actual word to be guessed, and the theme.
+It orchestrates the flow of data between different components, passing relevant information and handling user interactions.
 
-## Available Scripts
 
-In the project directory, you can run:
-
+In the project directory, you can run 
 ### `npm start`
 
 Runs the app in the development mode.\
