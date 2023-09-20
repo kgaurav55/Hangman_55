@@ -9,6 +9,11 @@
 ## About the project
 The Hangman Game project is a fun and interactive web-based game developed using React.js and JavaScript. This project showcases the implementation of a classic word-guessing game where players try to guess a hidden word one letter at a time. With an intuitive user interface and engaging gameplay.
 
+Technologies Used:
+React.js: A popular JavaScript library for building user interfaces.
+JavaScript: The core programming language used to implement the game's logic and functionality.
+HTML/CSS: Standard web technologies for structuring the game's layout and styling.
+
 ## Project File Description 
 ## public/ 
 This directory contains public assets that are accessible directly from the browser. It typically includes your index.html file, which is the entry point for your React application.
