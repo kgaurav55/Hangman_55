@@ -1,3 +1,9 @@
+## Hangman Game
+![Screenshot (13)](https://github.com/kgaurav55/Hangman_55/assets/132058010/8efd9f80-6b43-4fd8-bbd1-39d8f9227992)
+
+## About the project
+The Hangman Game project is a fun and interactive web-based game developed using React.js and JavaScript. This project showcases the implementation of a classic word-guessing game where players try to guess a hidden word one letter at a time. With an intuitive user interface and engaging gameplay.
+
 ## Project File Description 
 ## public/ 
 This directory contains public assets that are accessible directly from the browser. It typically includes your index.html file, which is the entry point for your React application.
