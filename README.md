@@ -1,6 +1,8 @@
 ## Project File Description 
 public/
 This directory contains public assets that are accessible directly from the browser. It typically includes your index.html file, which is the entry point for your React application.
+
+
 .src/
 This is the main source code directory for your React application.
   .game/
